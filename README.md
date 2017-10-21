@@ -12,6 +12,19 @@ Following the investigation, a simple online multiplayer game will be developed 
 
 Finally, through this project, it will be obtained a critical evaluation of the methodologies and techniques used in the game development. Furthermore, a list of recommendations for the correct design and implementation of games online will be developed. In order to satisfy all the requirements of this project, it is needed the knowledge of Java language 
 
-# ONLINE PONG GAME
+
+## Keywords
+Gaming traffic evaluation, development of online multiplayer games, measurement, techniques to limit network traffic, game features.
+
+## ONLINE PONG GAME
 the game was developed using JAVA ... 
+
+
+## How to Run the game: 
+If the app does not open by double clicking, the app must be open from the terminal. <br>
+If the version of java is lower than 1.6, try to update the java version.<br>
+
+To create a new game: game online -> select name -> create<br>
+To join to one game: select game -> click in button join<br>
+
 
