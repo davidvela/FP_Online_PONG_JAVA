@@ -16,6 +16,12 @@ Finally, through this project, it will be obtained a critical evaluation of the 
 ## Keywords
 Gaming traffic evaluation, development of online multiplayer games, measurement, techniques to limit network traffic, game features.
 
+<img src="./assets/portal.png" width=300px>
+<img src="./assets/pong_classic.png" width=300px>
+<img src="./assets/pong_water.png" width=300px>
+<img src="./assets/pong_football.png" width=300px>
+
+
 ## ONLINE PONG GAME
 the game was developed using JAVA ... 
 
