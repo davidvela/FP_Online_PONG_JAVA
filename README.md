@@ -23,8 +23,19 @@ Gaming traffic evaluation, development of online multiplayer games, measurement,
 
 
 ## ONLINE PONG GAME
-the game was developed using JAVA ... 
+The purpose of this game was to analyse the traffic of the game in order to improve the performance of the network.<br>
+This simple online multi- player game was developed using three different types of architectures:
+1. Client Server - TCP 
+2. Client Server - UDP 
+3. P2P - TCP and UDP
 
+The objective of this project is to research the network through the development of a computer Java application. Therefore, the edition used is Java Standard Edition, as this project does not have commercial or industrial purposes.
+
+Lewis Carrol (1871, cited by Savitch, 2012, p.21) wrote in his book “through the looking glass”: <br>
+‘The time has come,’ the Walrus said,  <br>
+‘To talk of many things: <br>
+Of shoes–and ships–and sealing wax–  <br>
+Of cabbages–and kings . . .’ <br>
 
 ## How to Run the game: 
 If the app does not open by double clicking, the app must be open from the terminal. <br>
